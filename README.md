@@ -1,9 +1,6 @@
 # Software Engineering Portfolio
 Portfolio for all kinds of software engineering projects. 
 
-- ## Web
-  - [Web Portfolio](https://github.com/Vlad95vlad/Web-Portfolio): Front-end web projects on HTML, CSS, JavaScript.
-
 - ## Data Science
   - [Data Science Portfolio](https://github.com/Vlad95vlad/Data-Science-Portfolio): Repository containing portfolio of data science projects.
 
